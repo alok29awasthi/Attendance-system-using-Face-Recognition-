@@ -10,7 +10,14 @@ This project deals with attendance of using face recognition in python. I have u
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+1. Python 3.6.4 (recommended)
+Libraries:
+1. OpenCV
+2. OS
+3. Time
+4. Numpy
+5. Pickle
+6. Pillow
 
 ```
 Give examples
@@ -20,7 +27,8 @@ Give examples
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+1. Download the python 3.6.4 from https://www.python.org/downloads/release/python-364/
+2. Remember to download 
 
 ```
 Give the example

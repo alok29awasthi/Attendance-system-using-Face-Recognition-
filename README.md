@@ -23,8 +23,6 @@ A step by step series of examples that tell you how to get a development env run
 3. Most of the libraries are easy to download.
 4. Take this as an example for downloading https://www.youtube.com/watch?v=iXQp7GkRIHY if facing any problem
 
-![image](https://user-images.githubusercontent.com/36445677/73609321-66f5ac00-45f2-11ea-84e0-1f752730eed2.png)
-
 ## Running the tests
 
 1. Run the save_images.py if using the program for the first time.
